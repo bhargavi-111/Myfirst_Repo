@@ -10,3 +10,4 @@ They can handle larger projects effi ciently.
 Learning jenkins with build and configure.
 It is very interesting and learned webhooks for automate.
 By using cron for schudeled time.
+syntax - * * * * *
