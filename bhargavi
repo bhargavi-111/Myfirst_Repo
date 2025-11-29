@@ -13,5 +13,5 @@ By using cron for schudeled time.
 second pipeline with hwebhoooks for automated.
 Now iam paratice very well.
 using cron time by poll scm.
-for schedule
+for schedule and finaldone
 syntax - * * * * *
